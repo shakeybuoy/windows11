@@ -24,7 +24,7 @@ export default function Taskbar({ folderState }) {
             </button>
             {
               folderState ? <button className='z-10 p-2 rounded hover:shadow active-btn'>
-                <img src='./icons/folder.png' className='w-6' />
+                <img src='./icons/Folder.png' className='w-6' />
                 <div className='bg-blue-500 rounded w-4 h-[3px] mx-auto'></div>
               </button> : <></>
             }
