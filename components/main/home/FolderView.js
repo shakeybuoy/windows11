@@ -19,7 +19,7 @@ export const FolderView = () => {
             </div>
             <div className='h-full w-full flex relative h-custom-folder'>
                 <div className='p-1 border-r-2 border-[#2b2b2b] h-full w-80 py-2'>
-                    <Btns img='./icons/desktop.png' name='Desktop' />
+                    <Btns img='./icons/Desktop.png' name='Desktop' />
                     <Btns img='./icons/Folder Downloads.png' name='Downloads' />
                     <Btns img='./icons/Folder Documents.png' name='Documents' />
                     <Btns img='./icons/Folder Pictures.png' name='Pictures' />
