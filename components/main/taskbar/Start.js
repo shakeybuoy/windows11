@@ -131,7 +131,7 @@ export const Start = () => {
             </section>
             <section className='z-40 shutdown-start-menu absolute px-16 bottom-16 flex items-center justify-between py-2'>
                 <a href='https://www.shakey.in' target='_blank' className='custom-btn-link text-xs flex gap-2 items-center px-3 rounded h-full'>
-                    <img src='https://media.licdn.com/dms/image/D4D03AQG_tE-qFbqLVw/profile-displayphoto-shrink_800_800/0/1678639435833?e=1687996800&v=beta&t=HTGwJNI_hJCG4lkmgLbhG7PjZREqCzW9gF5g3H164w4' className='h-8 aspect-square object-cover rounded-full' />
+                    <img src='./icons/me.jpeg' className='h-8 aspect-square object-cover rounded-full' />
                     <h2>SHAKEY</h2>
                 </a>
                 <button className='px-3 rounded h-full'>
